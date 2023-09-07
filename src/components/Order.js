@@ -21,7 +21,7 @@ function Order({ id, amount, amountShipping, items, timestamp, images }) {
             </div>
 
             <p className="text-sm whitespace-nowrap sm:text-xl self-end
-            flex-1 text-right text-blue-500">
+            flex-1 text-right text-blue-600">
               {items.length} items
             </p>
 
